@@ -204,6 +204,9 @@ h1 {
     width: 100%;
     overflow: hidden;
     }
+    .section {
+        top: 10%;
+    }
     .moon {
         left: 50px;
     }
@@ -214,6 +217,7 @@ h1 {
 
     .katakata {
         overflow: hidden;
+    }
     h1 {
         font-size: 37px;
     }
