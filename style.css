@@ -4,7 +4,8 @@
     box-sizing: border-box;
 }
 
-body {
+html, body {
+    height: 100vh;
     overflow: hidden;
 }
 
@@ -197,6 +198,10 @@ h1 {
 
 
 @media (max-width: 480px) {
+    html, body {
+    height: 100vh;
+    overflow: hidden;
+    }
     .moon {
         left: 50px;
     }
