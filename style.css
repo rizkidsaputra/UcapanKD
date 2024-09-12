@@ -209,8 +209,11 @@ h1 {
     }
     .forest {
         transform: scale(2);
+        overflow: hidden;
     }
 
+    .katakata {
+        overflow: hidden;
     h1 {
         font-size: 37px;
     }
